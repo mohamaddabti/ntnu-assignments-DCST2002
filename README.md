@@ -1,1 +1,1 @@
-All my JS assignments I did in NTNU-DCST2002
+All my JS assignments I did at NTNU-DCST2002
